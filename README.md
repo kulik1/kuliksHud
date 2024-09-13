@@ -1,4 +1,0 @@
-kuliksHud
-=========
-
-my hud
